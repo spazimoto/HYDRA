@@ -1,0 +1,1813 @@
+fileFormatVersion: 2
+guid: 7c20a5e37a8477f468424ea1f61c2014
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7202689904961281920
+    second: bw_tiles_0
+  - first:
+      213: -6225303925479656194
+    second: bw_tiles_1
+  - first:
+      213: -3396981760604025433
+    second: bw_tiles_2
+  - first:
+      213: 7753943828931723728
+    second: bw_tiles_3
+  - first:
+      213: -4308673135021151896
+    second: bw_tiles_4
+  - first:
+      213: -1606012564553172104
+    second: bw_tiles_5
+  - first:
+      213: -3849224598631709088
+    second: bw_tiles_6
+  - first:
+      213: 4487112283210531095
+    second: bw_tiles_7
+  - first:
+      213: 5887885199951106188
+    second: bw_tiles_8
+  - first:
+      213: 8193382480720218656
+    second: bw_tiles_9
+  - first:
+      213: 2499776951382265861
+    second: bw_tiles_10
+  - first:
+      213: 1782726808955977152
+    second: bw_tiles_11
+  - first:
+      213: 611785133583625066
+    second: bw_tiles_12
+  - first:
+      213: -1087960116797498669
+    second: bw_tiles_13
+  - first:
+      213: 7848977810208568014
+    second: bw_tiles_14
+  - first:
+      213: 3291207166871766424
+    second: bw_tiles_15
+  - first:
+      213: 1661396200105171996
+    second: bw_tiles_16
+  - first:
+      213: 4726311711260510717
+    second: bw_tiles_17
+  - first:
+      213: 7046249173937154731
+    second: bw_tiles_18
+  - first:
+      213: -3860979052734471571
+    second: bw_tiles_19
+  - first:
+      213: -6549835247436378817
+    second: bw_tiles_20
+  - first:
+      213: 6807196785934688985
+    second: bw_tiles_21
+  - first:
+      213: -8794947743032220005
+    second: bw_tiles_22
+  - first:
+      213: 2301192518870787893
+    second: bw_tiles_23
+  - first:
+      213: 1731031504876544469
+    second: bw_tiles_24
+  - first:
+      213: 1802548628918623937
+    second: bw_tiles_25
+  - first:
+      213: -8433283522551271119
+    second: bw_tiles_26
+  - first:
+      213: 8009169952620450909
+    second: bw_tiles_27
+  - first:
+      213: 2832474936886905417
+    second: bw_tiles_28
+  - first:
+      213: -2977754653149793157
+    second: bw_tiles_29
+  - first:
+      213: 2736430238521269632
+    second: bw_tiles_30
+  - first:
+      213: 3711887209199488199
+    second: bw_tiles_31
+  - first:
+      213: -400854791352376212
+    second: bw_tiles_32
+  - first:
+      213: 9205299776126136988
+    second: bw_tiles_33
+  - first:
+      213: 4791173419681052875
+    second: bw_tiles_34
+  - first:
+      213: -5858077990783501757
+    second: bw_tiles_35
+  - first:
+      213: 4195527120088490493
+    second: bw_tiles_36
+  - first:
+      213: 4754424435937278592
+    second: bw_tiles_37
+  - first:
+      213: -3943404256868702702
+    second: bw_tiles_38
+  - first:
+      213: -5811867108937952169
+    second: bw_tiles_39
+  - first:
+      213: 8700435360813590586
+    second: bw_tiles_40
+  - first:
+      213: -454276960026791966
+    second: bw_tiles_41
+  - first:
+      213: 4956794478342328987
+    second: bw_tiles_42
+  - first:
+      213: -6214879658545673948
+    second: bw_tiles_43
+  - first:
+      213: -192248484006174378
+    second: bw_tiles_44
+  - first:
+      213: -1843560374795379834
+    second: bw_tiles_45
+  - first:
+      213: -1632377319006849823
+    second: bw_tiles_46
+  - first:
+      213: -4916404920186658666
+    second: bw_tiles_47
+  - first:
+      213: 2749008454765996371
+    second: bw_tiles_48
+  - first:
+      213: -3358922596356077743
+    second: bw_tiles_49
+  - first:
+      213: -2633572766252177123
+    second: bw_tiles_50
+  - first:
+      213: -8621227917272367942
+    second: bw_tiles_51
+  - first:
+      213: -103984785771043313
+    second: bw_tiles_52
+  - first:
+      213: 6286536501369684679
+    second: bw_tiles_53
+  - first:
+      213: 632395909590299060
+    second: bw_tiles_54
+  - first:
+      213: -382659905026228823
+    second: bw_tiles_55
+  - first:
+      213: -2738515938648422522
+    second: bw_tiles_56
+  - first:
+      213: 6494314474656752893
+    second: bw_tiles_0
+  - first:
+      213: 8934930315803345053
+    second: bw_tiles_1
+  - first:
+      213: -855225083619684266
+    second: bw_tiles_2
+  - first:
+      213: -2347252266712336192
+    second: bw_tiles_3
+  - first:
+      213: 3916726824306857547
+    second: bw_tiles_4
+  - first:
+      213: -2123486397509797910
+    second: bw_tiles_5
+  - first:
+      213: -4509238031964935279
+    second: bw_tiles_6
+  - first:
+      213: -5112586091919458853
+    second: bw_tiles_7
+  - first:
+      213: 175408510754337696
+    second: bw_tiles_8
+  - first:
+      213: -23666475634506930
+    second: bw_tiles_9
+  - first:
+      213: -4594931387959062611
+    second: bw_tiles_10
+  - first:
+      213: -1996830548805456834
+    second: bw_tiles_11
+  - first:
+      213: -530805414381938769
+    second: bw_tiles_12
+  - first:
+      213: 6726732562776183550
+    second: bw_tiles_13
+  - first:
+      213: -6867360705631087548
+    second: bw_tiles_14
+  - first:
+      213: -6097639537331194722
+    second: bw_tiles_15
+  - first:
+      213: 1826978616345554781
+    second: bw_tiles_16
+  - first:
+      213: -4043559919048337602
+    second: bw_tiles_17
+  - first:
+      213: 8576068255530032609
+    second: bw_tiles_18
+  - first:
+      213: 1292329202451584045
+    second: bw_tiles_19
+  - first:
+      213: -2668086036358525693
+    second: bw_tiles_20
+  - first:
+      213: -8536488158122926704
+    second: bw_tiles_21
+  - first:
+      213: 981066844767750550
+    second: bw_tiles_22
+  - first:
+      213: 643113727239313723
+    second: bw_tiles_23
+  - first:
+      213: 2149220215345250685
+    second: bw_tiles_24
+  - first:
+      213: -8671188077636422878
+    second: bw_tiles_25
+  - first:
+      213: 4171430603259172873
+    second: bw_tiles_26
+  - first:
+      213: 5708059573506651413
+    second: bw_tiles_27
+  - first:
+      213: -7191351634486687083
+    second: bw_tiles_28
+  - first:
+      213: -6305535837242568727
+    second: bw_tiles_29
+  - first:
+      213: -1410170069655527636
+    second: bw_tiles_30
+  - first:
+      213: 8964025414490086135
+    second: bw_tiles_31
+  - first:
+      213: 7849665803600806326
+    second: bw_tiles_32
+  - first:
+      213: 7981745098899255787
+    second: bw_tiles_33
+  - first:
+      213: 1893550102922527661
+    second: bw_tiles_34
+  - first:
+      213: -4105937729114959392
+    second: bw_tiles_35
+  - first:
+      213: 8024227310235559550
+    second: bw_tiles_36
+  - first:
+      213: -5156161715480306210
+    second: bw_tiles_37
+  - first:
+      213: -4967278526990007013
+    second: bw_tiles_38
+  - first:
+      213: -5398383805049395034
+    second: bw_tiles_39
+  - first:
+      213: -2896502722303085857
+    second: bw_tiles_40
+  - first:
+      213: 7578748084219916031
+    second: bw_tiles_41
+  - first:
+      213: 945677851423403194
+    second: bw_tiles_42
+  - first:
+      213: 3661361867111794006
+    second: bw_tiles_43
+  - first:
+      213: -55048711477096529
+    second: bw_tiles_44
+  - first:
+      213: -1397612211674875775
+    second: bw_tiles_45
+  - first:
+      213: -4390127065213619457
+    second: bw_tiles_46
+  - first:
+      213: -5591407437131606400
+    second: bw_tiles_47
+  - first:
+      213: -6323024279171272004
+    second: bw_tiles_48
+  - first:
+      213: 6615590461893318943
+    second: bw_tiles_49
+  - first:
+      213: -2152083877090261710
+    second: bw_tiles_50
+  - first:
+      213: -1061703098399303724
+    second: bw_tiles_51
+  - first:
+      213: -4669942921874168871
+    second: bw_tiles_52
+  - first:
+      213: -4382161876530053144
+    second: bw_tiles_53
+  - first:
+      213: -6463037492681891128
+    second: bw_tiles_54
+  - first:
+      213: 6932240089086656990
+    second: bw_tiles_55
+  - first:
+      213: 8108914027040252394
+    second: bw_tiles_56
+  - first:
+      213: -6867263354998962707
+    second: bw_tiles_57
+  - first:
+      213: -4278990560872750153
+    second: bw_tiles_58
+  - first:
+      213: 1548259536357155365
+    second: bw_tiles_59
+  - first:
+      213: 3175877059199039362
+    second: bw_tiles_60
+  - first:
+      213: 890295198894032114
+    second: bw_tiles_61
+  - first:
+      213: 9215478295759292484
+    second: bw_tiles_62
+  - first:
+      213: -28445664943419512
+    second: bw_tiles_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 63
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bw_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4e7993b90702a50800000000000000
+      internalID: 6494314474656752893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 449
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90c35e68cf3ffb70800000000000000
+      internalID: 8934930315803345053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 449
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65058df4151a124f0800000000000000
+      internalID: -855225083619684266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 449
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8716cef72ec6fd0800000000000000
+      internalID: -2347252266712336192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 449
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46dd058b420b5630800000000000000
+      internalID: 3916726824306857547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 449
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7fd074f5cd782e0800000000000000
+      internalID: -2123486397509797910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 449
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b6c01a6e7fb61c0800000000000000
+      internalID: -4509238031964935279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 449
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddb98b79027c09b0800000000000000
+      internalID: -5112586091919458853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3b7167c1d2f6200800000000000000
+      internalID: 175408510754337696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 386
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4348be377bebaff0800000000000000
+      internalID: -23666475634506930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 386
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf48656f368b30c0800000000000000
+      internalID: -4594931387959062611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 386
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c6dcd0235d944e0800000000000000
+      internalID: -1996830548805456834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 386
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa719e6b94332a8f0800000000000000
+      internalID: -530805414381938769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 386
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2d35740a72a5d50800000000000000
+      internalID: 6726732562776183550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 386
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4441264b2db32b0a0800000000000000
+      internalID: -6867360705631087548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 386
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e943ff0c525d06ba0800000000000000
+      internalID: -6097639537331194722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fe28f2f5bba5910800000000000000
+      internalID: 1826978616345554781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 323
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37dd156da362e7c0800000000000000
+      internalID: -4043559919048337602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 323
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed1f54f3a0540770800000000000000
+      internalID: 8576068255530032609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 323
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d249df400964fe110800000000000000
+      internalID: 1292329202451584045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 323
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d8ba4d2ed09fad0800000000000000
+      internalID: -2668086036358525693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 323
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d11c99f3d488980800000000000000
+      internalID: -8536488158122926704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 323
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6998b4fe8137d9d00800000000000000
+      internalID: 981066844767750550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 323
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39d64e078ccce800800000000000000
+      internalID: 643113727239313723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d710eb7166093dd10800000000000000
+      internalID: 2149220215345250685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 260
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223f0e3a260c9a780800000000000000
+      internalID: -8671188077636422878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 260
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908d4705806e3e930800000000000000
+      internalID: 4171430603259172873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 260
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515b1a380f9173f40800000000000000
+      internalID: 5708059573506651413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 260
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a0f733acf233c90800000000000000
+      internalID: -7191351634486687083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 260
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef49ae609c3e78a0800000000000000
+      internalID: -6305535837242568727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 260
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f5b450bc11e6ce0800000000000000
+      internalID: -1410170069655527636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 260
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa514cfe9d966c70800000000000000
+      internalID: 8964025414490086135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b14825857d9fec60800000000000000
+      internalID: 7849665803600806326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 197
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1fa9bd0ead4ce60800000000000000
+      internalID: 7981745098899255787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 197
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da30a1149cd374a10800000000000000
+      internalID: 1893550102922527661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 197
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e19a3ab367c407c0800000000000000
+      internalID: -4105937729114959392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 197
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7624977938cb5f60800000000000000
+      internalID: 8024227310235559550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 197
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddd3500d32a178b0800000000000000
+      internalID: -5156161715480306210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 197
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15c55a5f7ea01bb0800000000000000
+      internalID: -4967278526990007013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 197
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a82fcaf7861515b0800000000000000
+      internalID: -5398383805049395034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd23c22de1e8dc7d0800000000000000
+      internalID: -2896502722303085857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 134
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffea91a8a3f1d2960800000000000000
+      internalID: 7578748084219916031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 134
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abceb06def8bf1d00800000000000000
+      internalID: 945677851423403194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 134
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6550c5b2835cfc230800000000000000
+      internalID: 3661361867111794006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 134
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf80131d7d6c3ff0800000000000000
+      internalID: -55048711477096529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 134
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188fe5d291faa9ce0800000000000000
+      internalID: -1397612211674875775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 134
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff23d1fa1b22313c0800000000000000
+      internalID: -4390127065213619457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 134
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0861b4b7f845762b0800000000000000
+      internalID: -5591407437131606400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb273dd3bea1048a0800000000000000
+      internalID: -6323024279171272004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 71
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f191d94697c4fcb50800000000000000
+      internalID: 6615590461893318943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 71
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2358033bd134222e0800000000000000
+      internalID: -2152083877090261710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 71
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d75afa38a21441f0800000000000000
+      internalID: -1061703098399303724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 71
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3275ca7a7013fb0800000000000000
+      internalID: -4669942921874168871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 71
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efba21bdfe6f23c0800000000000000
+      internalID: -4382161876530053144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 71
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c22aae94adae46a0800000000000000
+      internalID: -6463037492681891128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 71
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed18bb7e1a3443060800000000000000
+      internalID: 6932240089086656990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1aaef3856a88070800000000000000
+      internalID: 8108914027040252394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 8
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5ca3aec5492b0a0800000000000000
+      internalID: -6867263354998962707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b32ee581c8fd94c0800000000000000
+      internalID: -4278990560872750153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 8
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522eda468d58c7510800000000000000
+      internalID: 1548259536357155365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 8
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287fedbdb5bf21c20800000000000000
+      internalID: 3175877059199039362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4805334c6fa5c00800000000000000
+      internalID: 890295198894032114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 8
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4480e0e2fa4f3ef70800000000000000
+      internalID: 9215478295759292484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 8
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fc5a581d0fa9ff0800000000000000
+      internalID: -28445664943419512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c25746ab4871a884e8a076d7d2f8f831
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
