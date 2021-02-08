@@ -16,6 +16,7 @@ ScriptsOnlyBuild:
     - WinScreen
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
+    - UnityEditor.Tilemaps.GridBrushEditor
     - UnityEditor.Tilemaps.GridPaintPaletteClipboard
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
@@ -29,10 +30,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -96,25 +95,25 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12412}
     - Class: 114
-      Script: {instanceID: 12756}
+      Script: {instanceID: 12692}
     - Class: 114
-      Script: {instanceID: 12862}
+      Script: {instanceID: 12758}
     - Class: 114
-      Script: {instanceID: 13262}
+      Script: {instanceID: 12864}
     - Class: 114
-      Script: {instanceID: 13430}
+      Script: {instanceID: 13264}
     - Class: 114
-      Script: {instanceID: 13482}
+      Script: {instanceID: 13432}
     - Class: 114
-      Script: {instanceID: 13494}
+      Script: {instanceID: 13484}
     - Class: 114
-      Script: {instanceID: 13572}
+      Script: {instanceID: 13496}
     - Class: 114
-      Script: {instanceID: 13892}
+      Script: {instanceID: 13574}
     - Class: 114
-      Script: {instanceID: 76444}
+      Script: {instanceID: 13776}
     - Class: 114
-      Script: {instanceID: 76456}
+      Script: {instanceID: 13896}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -191,25 +190,25 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12412}
     - Class: 114
-      Script: {instanceID: 12756}
+      Script: {instanceID: 12692}
     - Class: 114
-      Script: {instanceID: 12862}
+      Script: {instanceID: 12758}
     - Class: 114
-      Script: {instanceID: 13262}
+      Script: {instanceID: 12864}
     - Class: 114
-      Script: {instanceID: 13430}
+      Script: {instanceID: 13264}
     - Class: 114
-      Script: {instanceID: 13482}
+      Script: {instanceID: 13432}
     - Class: 114
-      Script: {instanceID: 13494}
+      Script: {instanceID: 13484}
     - Class: 114
-      Script: {instanceID: 13572}
+      Script: {instanceID: 13496}
     - Class: 114
-      Script: {instanceID: 13892}
+      Script: {instanceID: 13574}
     - Class: 114
-      Script: {instanceID: 76444}
+      Script: {instanceID: 13776}
     - Class: 114
-      Script: {instanceID: 76456}
+      Script: {instanceID: 13896}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -266,9 +265,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12412}
     - Class: 114
-      Script: {instanceID: 13482}
+      Script: {instanceID: 13484}
     - Class: 114
-      Script: {instanceID: 13892}
+      Script: {instanceID: 13896}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -325,11 +324,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12412}
     - Class: 114
-      Script: {instanceID: 12736}
+      Script: {instanceID: 12738}
     - Class: 114
-      Script: {instanceID: 13482}
+      Script: {instanceID: 13484}
     - Class: 114
-      Script: {instanceID: 13892}
+      Script: {instanceID: 13896}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -382,11 +381,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12412}
     - Class: 114
-      Script: {instanceID: 13410}
+      Script: {instanceID: 13412}
     - Class: 114
-      Script: {instanceID: 13482}
+      Script: {instanceID: 13484}
     - Class: 114
-      Script: {instanceID: 13892}
+      Script: {instanceID: 13896}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -642,6 +641,12 @@ ScriptsOnlyBuild:
     className: SignalTrack
   - hash:
       serializedVersion: 2
+      Hash: 46e52224c2f7ed389efcab9f393acc74
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CyclopsScript
+  - hash:
+      serializedVersion: 2
       Hash: 12e71b25e5bf157136453bf76e1d9eba
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -816,6 +821,12 @@ ScriptsOnlyBuild:
     className: TMP_StyleSheet
   - hash:
       serializedVersion: 2
+      Hash: c6f9041d901583741300fb2ec0f66a08
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CyclopsChecker
+  - hash:
+      serializedVersion: 2
       Hash: a01d7cd1372d550f912f7121e6ebe739
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -910,18 +921,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 46e52224c2f7ed389efcab9f393acc74
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CyclopsScript
-  - hash:
-      serializedVersion: 2
-      Hash: c6f9041d901583741300fb2ec0f66a08
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CyclopsChecker
   platform: 19
   scenePathNames:
   - Assets/start.unity
@@ -929,4 +928,4 @@ ScriptsOnlyBuild:
   - Assets/level2.unity
   - Assets/win.unity
   - Assets/loss.unity
-  playerPath: F:/Desktop/Hydra build test/HYDRA.exe
+  playerPath: F:/Desktop/HYDRA BUILD/HYDRA.exe

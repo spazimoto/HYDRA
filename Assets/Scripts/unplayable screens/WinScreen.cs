@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class WinScreen : MonoBehaviour
 {
@@ -16,9 +17,13 @@ public class WinScreen : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            message.text = "Developers: \n Morgan DeMunck - Lead Programmer \n Franza Gregoire - Lead Designer \n Alexander Shopovik - Lead Artist \n\n Thank you for playing!";
+            message.text = "Developers: \n Morgan DeMunck - Lead Programmer \n Franza Gregoire - Lead Designer \n Alexander Shopovik - Lead Artist \n\n To replay, tap the R key.";
         }
 
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            SceneManager.LoadScene("start");
+        }
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             Application.Quit();
