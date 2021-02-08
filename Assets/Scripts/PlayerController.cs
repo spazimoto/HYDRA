@@ -9,6 +9,9 @@ public class PlayerController : MonoBehaviour
 
     Animator playerAnimator;
 
+    public AudioClip spearThrow;
+    public AudioSource sfxSource;
+
     void Start()
     {
         var healthScript = gameObject.GetComponent<LifeCounter>();
@@ -21,6 +24,9 @@ public class PlayerController : MonoBehaviour
         {
             Instantiate(ProjectilePrefab, LaunchOffset.position, transform.rotation);
             playerAnimator.SetTrigger("throw");
+
+            sfxSource.clip = spearThrow;
+            sfxSource.Play();
         }
 
         if (Input.GetKeyDown(KeyCode.Escape))
@@ -32,16 +38,23 @@ public class PlayerController : MonoBehaviour
     void FixedUpdate()
     {
         float xDirection = Input.GetAxis("Horizontal");
-        float yDirection = Input.GetAxis("Vertical");
 
-        Vector3 moveDirection = new Vector3(xDirection, yDirection, 0.0f);
+        Vector3 moveDirection = new Vector3(xDirection, 0.0f, 0.0f);
 
         transform.position += moveDirection * speed;
     }
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Head") || collision.gameObject.CompareTag("Body"))
+        if (collision.gameObject.CompareTag("Head") || collision.gameObject.CompareTag("Body") || collision.gameObject.CompareTag("Gorgon"))
+        {
+            gameObject.SendMessage("TakeDamage", 1);
+        }
+    }
+
+    void OnTriggerEnter2D(Collider2D collider)
+    {
+        if (collider.gameObject.CompareTag("Cyclops"))
         {
             gameObject.SendMessage("TakeDamage", 1);
         }

@@ -36,14 +36,20 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\colliders bullshit adklangjkdlas\ColliderListener.cs" />
+     <Compile Include="Assets\Scripts\unplayable screens\LoseScreen.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\unplayable screens\StartMenu.cs" />
      <Compile Include="Assets\Scripts\HydraController.cs" />
      <Compile Include="Assets\Scripts\LifeCounter.cs" />
+     <Compile Include="Assets\Scripts\GorgonScript.cs" />
+     <Compile Include="Assets\Scripts\unplayable screens\WinScreen.cs" />
      <Compile Include="Assets\Scripts\JarScript.cs" />
-     <Compile Include="Assets\Scripts\ProjectileController.cs" />
-     <Compile Include="Assets\Scripts\BodyController.cs" />
-     <Compile Include="Assets\Scripts\colliders bullshit adklangjkdlas\ColliderListener.cs" />
      <Compile Include="Assets\Scripts\colliders bullshit adklangjkdlas\ColliderBridge.cs" />
+     <Compile Include="Assets\Scripts\BodyController.cs" />
+     <Compile Include="Assets\Scripts\ProjectileController.cs" />
+     <Compile Include="Assets\Scripts\CyclopsScript.cs" />
+     <Compile Include="Assets\Scripts\CyclopsChecker.cs" />
     <Reference Include="UnityEngine">
         <HintPath>F:/Desktop/UNITY/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

@@ -7,6 +7,8 @@ public class ColliderListener : MonoBehaviour
     public int score;
     void Awake()
     {
+        DontDestroyOnLoad(this.gameObject);
+
          Collider2D[] colliders = GetComponentsInChildren<Collider2D>();
 
         foreach(Collider2D collider in colliders) {

@@ -11,6 +11,8 @@ TagManager:
   - Enemy
   - Life
   - Obstacle
+  - Gorgon
+  - Cyclops
   layers:
   - Default
   - TransparentFX
@@ -20,10 +22,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Gorgon
+  - Jar
+  - Cyclops
+  - Wall
   - 
   - 
   - 
